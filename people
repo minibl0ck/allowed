@@ -1,1 +1,2 @@
-{"LeRealMini", "haxmaxxing}
+local people = {"LeRealMini", "haxmaxxing}
+return people
